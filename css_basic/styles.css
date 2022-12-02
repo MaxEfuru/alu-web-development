@@ -1,1 +1,16 @@
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
 
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+article {
+    flex: 2;
+}
+aside{
+    flex: 1;
+}
